@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomValidationUsingDelegates", "CustomValidationUsingDelegates\CustomValidationUsingDelegates.csproj", "{FEFFEF3C-862A-4EAA-B6AD-18C991AD07BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEFFEF3C-862A-4EAA-B6AD-18C991AD07BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEFFEF3C-862A-4EAA-B6AD-18C991AD07BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEFFEF3C-862A-4EAA-B6AD-18C991AD07BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEFFEF3C-862A-4EAA-B6AD-18C991AD07BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
